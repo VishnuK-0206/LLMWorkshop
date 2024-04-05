@@ -6,9 +6,3 @@
 - Your feedback will help us improve material presented during the workshop. Fill in [this Form (takes ~4 mins)](https://forms.office.com/r/2xPT7D7P0G)
 - We will provide you some assignments after the workshop.  Once you are done with the assignments, create a github repo with all the necessary files, make the repo public and fill in [this form (takes ~4 mins](https://forms.office.com/r/puwCBbFq5V).
 
-
-# Latest Edition
-
-## [Session 1 - LLM Capabilities](./Session1)
-
-## [Session 2 - LLMs in Depth](./Session2)
