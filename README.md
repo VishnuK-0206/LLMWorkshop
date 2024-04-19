@@ -3,10 +3,10 @@
 
 - It is recommended to open the notebooks in Google Colab.
 - Create new issue if you need help with anything (even prior or after the workshop). A sample issue is created.
-- Hands on activities
+<!-- - Hands on activities
     - Fine tune a model for specific task of your choice. 
     - Create a webapp for a chatbot based on a company's Annual Report/ a research paper / IIIT Kottayam website (or your Institute Website) 
-        - (Use this notebook for inspiration)[https://colab.research.google.com/drive/1tkGeVRKtQA-wqBGqc7JrIK95MfWrDRlJ?usp=sharing#scrollTo=MCzn7OYaKLNU]
+        - (Use this notebook for inspiration)[https://colab.research.google.com/drive/1tkGeVRKtQA-wqBGqc7JrIK95MfWrDRlJ?usp=sharing#scrollTo=MCzn7OYaKLNUcd ] -->
 
 
 <!-- - Your feedback will help us improve material presented during the workshop. Fill in [this Form (takes ~4 mins)](https://forms.office.com/r/2xPT7D7P0G)
