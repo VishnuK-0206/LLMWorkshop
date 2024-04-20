@@ -24,7 +24,7 @@ Prediction: water bodies
 True Answers: ['water', "in solution in the world's water bodies", "the world's water bodies"]  
 EM: 0 	 F1: 0.8
 
-
+<!-- 
 ```
 # these functions are heavily influenced by the HF squad_metrics.py script
 def normalize_text(s):
@@ -81,7 +81,7 @@ print(f"Question: {example.question_text}")
 print(f"Prediction: {prediction}")
 print(f"True Answers: {gold_answers}")
 print(f"EM: {em_score} \t F1: {f1_score}")
-```
+``` -->
 <!-- 
 - retrieval eval example? 
 -->
